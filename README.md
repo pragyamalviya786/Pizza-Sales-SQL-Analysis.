@@ -42,7 +42,8 @@ The dataset includes information across 4 relational tables:
 - **Revenue Drivers:** While Classic pizzas hit the highest quantity ordered, premium categories like Chicken and Supreme pizzas contribute significantly to total revenue due to higher margins.
 - **Data Patterns:** Analyzing cumulative revenue over time shows steady business growth with predictable weekend spikes.
 
-## 📂 How to Use This Repository
-1. **Clone the Repository:** 
+### How to Use This Repository
+
+1. **Clone the Repository:**
 ```bash
    git clone [https://github.com/pragyamalviya786/Pizza-Sales-SQL-Analysis.git](https://github.com/pragyamalviya786/Pizza-Sales-SQL-Analysis.git)
