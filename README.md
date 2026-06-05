@@ -42,12 +42,3 @@ The dataset includes information across 4 relational tables (provided as CSV fil
 * **Size Preferences:** Large and Medium sizes dominate the sales volume, suggesting that promotions targeted at these sizes could drive higher average order value.
 * **Revenue Drivers:** While Classic pizzas hit the highest quantity ordered, premium categories like Chicken and Supreme pizzas contribute significantly to total revenue due to higher margins.
 * **Data Patterns:** Analyzing cumulative revenue over time shows steady business growth with predictable weekend spikes.
-
----
-
-## 🛠️ How to Use & Open This Project
-
-### 1. Clone the Repository
-Open your Command Prompt (CMD) or Git Bash, and run this command to download the project files to your local machine:
-```bash
-git clone [https://github.com/pragyamalviya786/Pizza-Sales-SQL-Analysis.git](https://github.com/pragyamalviya786/Pizza-Sales-SQL-Analysis.git)
