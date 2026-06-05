@@ -49,4 +49,4 @@ The dataset includes information across 4 relational tables (provided as CSV fil
 
 1. **Clone the Repository:**
 ```bash
-   git clone [https://github.com/pragyamalviya786/Pizza-Sales-SQL-Analysis.git](https://github.com/pragyamalviya786/Pizza-Sales-SQL-Analysis.git)
+git clone [https://github.com/pragyamalviya786/Pizza-Sales-SQL-Analysis.git](https://github.com/pragyamalviya786/Pizza-Sales-SQL-Analysis.git)
