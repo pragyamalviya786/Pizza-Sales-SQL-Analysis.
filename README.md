@@ -45,8 +45,9 @@ The dataset includes information across 4 relational tables (provided as CSV fil
 
 ---
 
-## 🛠️ How to Use This Repository
+## 🛠️ How to Use & Open This Project
 
-1. **Clone the Repository:**
+### 1. Clone the Repository
+Open your Command Prompt (CMD) or Git Bash, and run this command to download the project files to your local machine:
 ```bash
 git clone [https://github.com/pragyamalviya786/Pizza-Sales-SQL-Analysis.git](https://github.com/pragyamalviya786/Pizza-Sales-SQL-Analysis.git)
